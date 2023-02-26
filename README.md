@@ -1,2 +1,2 @@
-# heyshruti.github.com
+# trulyshruti.github.com
 README.md
